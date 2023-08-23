@@ -1,3 +1,4 @@
+package Tech_Stuff.random;
 public class FactorialCalculator {
     public long calculateFactorial(int n) {
         if (n < 0) {

@@ -1,3 +1,4 @@
+package Tech_Stuff.random;
 public class Greatest_of_three_int {
     /* program to find greatest of three integers */
     public static void main(String[] args) {

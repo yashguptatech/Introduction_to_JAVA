@@ -1,4 +1,4 @@
-package module1;
+package Tech_Stuff.module1;
 import java.util.Scanner;
 public class check_prime_number{
 public static void main(String[] args) {

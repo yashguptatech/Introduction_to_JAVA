@@ -1,4 +1,4 @@
-package random;
+package Tech_Stuff.random;
 
 import java.util.Scanner;
 

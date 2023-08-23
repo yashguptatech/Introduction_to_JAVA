@@ -1,4 +1,4 @@
-package exceptions;
+package Tech_Stuff.random.exceptions;
 import java.util.Scanner;
 
 public class UserInputHandling {

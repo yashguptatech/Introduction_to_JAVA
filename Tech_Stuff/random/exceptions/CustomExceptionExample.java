@@ -1,4 +1,4 @@
-package exceptions;
+package Tech_Stuff.random.exceptions;
 // Custom exception class
 class CustomException extends Exception {
     public CustomException(String message) {

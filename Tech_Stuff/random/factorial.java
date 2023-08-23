@@ -1,3 +1,4 @@
+package Tech_Stuff.random;
 public class factorial {
     // take input from user
     public static void main(String[] args) {
